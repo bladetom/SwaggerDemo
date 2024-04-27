@@ -1,0 +1,48 @@
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  profiles:
+    active:
+  application:
+    name: swaggerdemo
+  autoconfigure:
+  devtools:
+    restart:
+      enabled: false
+  output:
+    ansi:
+      #开启log颜色显示
+      enabled: always
+#  main:
+#    banner-mode: off
+#    exclude: DataSourceAutoConfiguration
+apiInfo:
+  title:
+  description:
+  version:
+  termsOfServiceUrl:
+swagger:
+  flag: true
+my:
+  servers:
+    - dev.example.com
+    - another.example.com
+acme:
+  map:
+    "[/key1]": value1
+    "[/key2]": value2
+    /key3: value3
+  enabled: true
+  remote-address: 192.168.1.1
+  security:
+    username: admin
+    roles:
+      - USER
+      - ADMIN
+debug: true
+#logging:
+#  file:
+server:
+  port: 8081
+#    path:

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1438]Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[1438]Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.md" />
+              <option name="frontendQuestionId" value="leetcode.com1438" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1438]Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.java" />
+              <option name="titleSlug" value="longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[825]Friends Of Appropriate Ages.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/doc/content/[825]Friends Of Appropriate Ages.md" />
+              <option name="frontendQuestionId" value="leetcode.com825" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[825]Friends Of Appropriate Ages.java" />
+              <option name="titleSlug" value="friends-of-appropriate-ages" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
